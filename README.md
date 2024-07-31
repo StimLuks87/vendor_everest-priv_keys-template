@@ -1,9 +1,9 @@
 ```bash
-croot && git clone https://github.com/ProjectEverest/vendor_everest-priv_keys-template vendor/everest-priv/keys
+croot && git clone https://github.com/StimLuks87/vendor_rising-priv_keys-template vendor/rising-priv/keys
 ```
 
 ```bash
-cd vendor/everest-priv/keys
+cd vendor/rising-priv/keys
 ```
 
 ```bash
